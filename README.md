@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jfperodrigues
-- 🔭 I’m currently working on my master thesis on AI Game Simulation Platform for 3D Sensing Characters
-- 👀 I’m interested in Game Development, AI and Machine Learning
-- 🌱 I’m currently learning to use Machine Learning on learning agents using Unity  
+- 🔭 I finished my master thesis on AI Game Simulation Platform for 3D Sensing Characters
+- 👀 I’m interested in Game Development, Cloud Computing and Database Systems
+- 🌱 I’m learning to use Machine Learning on learning agents using Unity and the ML-Agents plugin
 - 💞️ I’m looking to collaborate on Game Development or other related areas.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: jfpe.rodrigues@campus.fct.unl.pt
